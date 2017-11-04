@@ -1,0 +1,10 @@
+S,ML,S,S,Iris-setosa
+S,MS,S,S,Iris-setosa
+S,ML,S,S,Iris-setosa
+L,ML,ML,ML,Iris-versicolor
+ML,ML,ML,ML,Iris-versicolor
+ML,MS,ML,ML,Iris-versicolor
+ML,MS,ML,L,Iris-virginica
+ML,MS,L,L,Iris-virginica
+MS,S,ML,L,Iris-virginica
+MS,MS,ML,L,Iris-virginica
